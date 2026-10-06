@@ -1,2 +1,2 @@
 # Test
-its Just Practice for learnig git &amp; gitHub.
+Its Just Practice for learnig git &amp; gitHub.
